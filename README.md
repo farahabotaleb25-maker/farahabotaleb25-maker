@@ -18,7 +18,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Farah%20Yasser%20|%20Frontend%20Developer&fontSize=35&fontAlignY=45&fontAlign=50&desc=Crafting%20Modern%20and%20Responsive%20Web%20Applications&descAlignY=70&descAlign=50)
 
 ### **Specialties**
 - Responsive Design  
@@ -50,8 +49,8 @@ Database design using ER diagrams, SQL queries, and normalization.
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farahabotaleb25-maker)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farahabotaleb25-maker)  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farahabotaleb@gmail.com)
 
 ---
