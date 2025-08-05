@@ -1,10 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Farah%20Yasser%20|%20Frontend%20Developer&fontSize=35&fontAlignY=40&fontAlign=70&desc=Crafting%20Modern%20and%20Responsive%20Web%20Applications&descAlignY=60&descAlign=70)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Farah%20Yasser%20|%20Frontend%20Developer&fontSize=35&fontAlignY=45&fontAlign=50&desc=Crafting%20Modern%20and%20Responsive%20Web%20Applications&descAlignY=70&descAlign=50)
 
 # Hi there 👋 I'm Farah Yasser  
 
 💻 **Frontend Developer | Information Technology Student**  
 🎓 Third-year IT student specializing in **Front-End Development** using HTML, CSS, and JavaScript.  
-🚀 Passionate about building responsive, high-performance, and modern web applications.  
+🚀 Passionate about building responsive, high-performance, and modern web applications.
 
 ---
 
