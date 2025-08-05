@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋 I'm Farah Yasser  
 
-<!--
-**farahabotaleb25-maker/farahabotaleb25-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Frontend Developer | Information Technology Student**  
+🎓 Third-year IT student specializing in **Front-End Development** using HTML, CSS, and JavaScript.  
+🚀 Passionate about building responsive, high-performance, and modern web applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies  
+
+### **Languages & Tools**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Specialties**
+- Responsive Design  
+- Performance Optimization  
+- Clean Code  
+
+---
+
+## 📌 Featured Projects  
+
+### 🌐 Responsive Web Projects  
+7 fully responsive websites built with HTML, CSS, and JavaScript.  
+
+### 🤖 Machine Learning Project  
+Data preprocessing, model training, and evaluation in Python.  
+
+### 🗄️ Database Project  
+Database design using ER diagrams, SQL queries, and normalization.  
+
+---
+
+## 📫 Connect With Me  
+📧 **Email:** farahabotaleb@gmail.com  
+🐱 **GitHub:** [github.com/farahabotaleb25-maker](https://github.com/farahabotaleb25-maker)  
+
+---
+
+⭐ *Always eager to learn, build, and contribute to innovative projects!*
