@@ -33,7 +33,15 @@
 Data preprocessing, model training, and evaluation in Python.  
 
 ### 🗄️ Database Project  
-Database design using ER diagrams, SQL queries, and normalization.  
+Database design using ER diagrams, SQL queries, and normalization. 
+---
+
+## 📊 GitHub Stats
+
+![Farah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farahabotaleb25-maker&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farahabotaleb25-maker&layout=compact&theme=radical)
+
 
 ---
 
