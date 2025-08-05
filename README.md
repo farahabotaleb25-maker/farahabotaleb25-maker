@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=220&section=header&text=Farah%20Yasser%20|%20Frontend%20Developer&fontSize=42&fontAlign=60&fontAlignY=55&desc=Crafting%20Modern%20and%20Responsive%20Web%20Applications&descAlign=60&descAlignY=80&descFontSize=18&animation=twinkle)
+![Header](https://capsule-render.vercel.app/api?type=avatar&avatar=https://avatars.githubusercontent.com/u/583231?v=4&size=80&color=gradient&height=200&section=header&text=Farah%20Yasser%20|%20Frontend%20Developer&fontSize=30&desc=Crafting%20Modern%20and%20Responsive%20Web%20Applications&descSize=16&animation=fadeIn)
 
 # Hi there 👋 I'm Farah Yasser  
 
